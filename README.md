@@ -1,9 +1,6 @@
 
 # 🧠 Dev'IA: Inteligência Artificial para o Futuro
 
-[![Dev'IA Logo](https://raw.githubusercontent.com/jp3droal/dev-ia/main/docs/logo_devia.png)](https://github.com/jp3droal/dev-ia) 
-*Substitua o link acima pela localização da sua logo no repositório.*
-
 A **Dev'IA** é uma empresa de tecnologia de ponta dedicada ao desenvolvimento de soluções inovadoras em Inteligência Artificial. Nosso foco é transformar dados em valor, otimizando processos e criando produtos inteligentes que impulsionam o crescimento e a eficiência de nossos clientes.
 
 ## 🌟 Nossa Missão
@@ -53,10 +50,6 @@ Acreditamos na força da comunidade e do open-source. Se você deseja colaborar 
 5.  Abra um **Pull Request**.
 
 Para reportar bugs ou sugerir melhorias, use a aba **Issues**.
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença [Nome da Licença, ex: MIT]. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 📞 Contato
 
