@@ -1,0 +1,36 @@
+OBSERVAÇÕES DE DESIGN - LANDING PAGES DE IA
+
+Baseado na análise de landing pages modernas de empresas de IA:
+
+ESQUEMA DE CORES COMUM:
+1. Roxo/Violeta (Purple) - Cor principal para tecnologia e inovação
+   - Tons: #6366F1, #7C3AED, #8B5CF6
+   
+2. Azul Escuro/Navy para fundos e header
+   - Tons: #0F172A, #1E293B, #334155
+   
+3. Rosa/Magenta como cor de destaque
+   - Tons: #EC4899, #F472B6, #DB2777
+
+4. Gradientes modernos:
+   - Roxo para Rosa
+   - Azul escuro para Roxo
+   
+5. Fundos:
+   - Branco limpo (#FFFFFF)
+   - Cinza muito claro (#F8FAFC, #F1F5F9)
+   - Azul/Roxo escuro para hero section
+
+CARACTERÍSTICAS VISUAIS:
+- Uso de gradientes suaves
+- Bordas arredondadas (border-radius: 8-16px)
+- Sombras sutis para profundidade
+- Espaçamento generoso
+- Tipografia limpa e moderna
+- Botões com cores vibrantes (roxo, rosa)
+- Hover effects com transformações suaves
+
+REFERÊNCIAS:
+- Openlayer: Usa roxo/violeta como cor principal
+- TalkNotes: Rosa e roxo
+- Tendência: Cores vibrantes mas profissionais
